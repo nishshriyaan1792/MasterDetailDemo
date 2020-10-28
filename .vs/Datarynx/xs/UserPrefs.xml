@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{E6CEBD31-AF4B-423A-90A1-030ECE712439}|Default">
+  <MonoDevelop.Ide.ItemProperties.Datarynx.Android FirstBuild="True" PreferredExecutionTarget="Android.tablet_m-dpi_10_1in_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.Datarynx.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E45B7BF6-30B8-4B8B-8A34-2EA26D8A7762" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datarynx/ViewModels/ItemsViewModel.cs">
+    <Files>
+      <File FileName="Datarynx/Views/ItemsPage.xaml.cs" Line="40" Column="12" IsPinned="True" />
+      <File FileName="Datarynx/Views/ItemsPage.xaml" Line="4" Column="9" IsPinned="True" />
+      <File FileName="Datarynx/App.xaml" Line="1" Column="1" />
+      <File FileName="Datarynx/Views/MainPage.xaml" Line="10" Column="38" />
+      <File FileName="Datarynx/Views/MenuPage.xaml" Line="16" Column="15" />
+      <File FileName="Datarynx/Views/MainPage.xaml.cs" Line="21" Column="26" />
+      <File FileName="Datarynx/Views/AboutPage.xaml" Line="1" Column="1" />
+      <File FileName="Datarynx/Views/ItemDetailPage.xaml" Line="1" Column="1" />
+      <File FileName="Datarynx/Models/HomeMenuItem.cs" />
+      <File FileName="Datarynx/Views/MenuPage.xaml.cs" />
+      <File FileName="Datarynx/ViewModels/ItemsViewModel.cs" Line="1" Column="1" />
+      <File FileName="Datarynx/Views/AboutPage.xaml.cs" />
+      <File FileName="Datarynx/Views/ItemDetailPage.xaml.cs" Line="28" Column="12" />
+      <File FileName="Datarynx/ViewModels/ItemDetailViewModel.cs" Line="10" Column="16" />
+      <File FileName="Datarynx/Models/Item.cs" Line="15" Column="1" />
+      <File FileName="Datarynx/ViewModels/BaseViewModel.cs" Line="15" Column="33" />
+      <File FileName="Datarynx/Services/IDataStore.cs" Line="5" Column="19" />
+      <File FileName="Datarynx/Services/DBConnection.cs" Line="30" Column="21" />
+      <File FileName="Datarynx/IServices/ISqliteService.cs" Line="12" Column="6" />
+      <File FileName="Datarynx.iOS/DBService/SQLiteService.cs" Line="28" Column="1" />
+      <File FileName="Datarynx.Android/DBService/SQLiteService.cs" Line="5" Column="1" />
+      <File FileName="Datarynx/Models/DBModels/ToDoModel.cs" Line="7" Column="1" />
+      <File FileName="Datarynx/Models/DBModels/BaseItem.cs" Line="12" Column="1" />
+      <File FileName="Datarynx/App.xaml.cs" Line="18" Column="1" />
+      <File FileName="Datarynx/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs" Line="22" Column="1" />
+      <File FileName="Datarynx.iOS/AppDelegate.cs" Line="26" Column="1" />
+      <File FileName="Datarynx.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Datarynx/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs" Line="30" Column="1" />
+      <File FileName="Datarynx/ValueConverter/ColorConverter.cs" Line="28" Column="1" />
+      <File FileName="Datarynx/ValueConverter/TextConverter.cs" Line="18" Column="26" />
+      <File FileName="Datarynx/ViewModels/AboutViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Datarynx" expanded="True">
+            <Node name="Datarynx" expanded="True">
+              <Node name="ValueConverter" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="ItemsViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+            <Node name="Datarynx.iOS" expanded="True">
+              <Node name="DBService" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint exceptionName="System.NullReferenceException" includeSubclasses="True" />
+      <Breakpoint file="/Users/adeptpros/Projects/Datarynx/Datarynx/Views/ItemsPage.xaml.cs" relfile="Datarynx/Views/ItemsPage.xaml.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
